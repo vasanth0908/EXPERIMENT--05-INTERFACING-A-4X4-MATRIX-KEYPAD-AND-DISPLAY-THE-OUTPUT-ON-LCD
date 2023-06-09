@@ -178,6 +178,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM 
+![image](https://github.com/vasanth0908/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/122000018/397f4129-737b-4168-a21d-c96501ad10e9)
  
 
 ## STM 32 CUBE PROGRAM :
